@@ -1,3 +1,3 @@
-##google
+-google
 
-<img src = "IMG/GOOGLE">
+<img src = "/.IMG/GOOGLE.JPG">
